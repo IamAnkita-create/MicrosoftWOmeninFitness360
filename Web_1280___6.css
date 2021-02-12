@@ -1,0 +1,385 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 6;
+	--web-view-id: Web_1280__6;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280__6;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280__6 {
+	position: absolute;
+	width: 1280px;
+	height: 2321px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 6;
+	--web-view-id: Web_1280__6;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_9 {
+	opacity: 0.113;
+	fill: rgba(255,80,255,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 225px;
+	left: 0px;
+	top: 0px;
+}
+#Path_1 {
+	opacity: 0.201;
+	fill: rgba(211,211,211,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1239px;
+	height: 2048.857px;
+	left: 24px;
+	top: 244px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#WOMEN_IN_FITNESS_360 {
+	left: 378px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 525px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Home_ {
+	left: 573px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___5.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#Activity {
+	left: 639px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___8.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#About_your_Physical_Activity {
+	left: 456px;
+	top: 141px;
+	position: absolute;
+	overflow: visible;
+	width: 369px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#On_this_page {
+	left: 147px;
+	top: 253px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#-Why_do_you_need_physical_acti {
+	left: 143px;
+	top: 314px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#-Barriers_you_might_face_in_ph {
+	left: 143px;
+	top: 369px;
+	position: absolute;
+	overflow: visible;
+	width: 443px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#-Tips_for_you_to_overcome_barr {
+	left: 143px;
+	top: 424px;
+	position: absolute;
+	overflow: visible;
+	width: 459px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#-Making_changes_to_adopt_a_phy {
+	left: 143px;
+	top: 479px;
+	position: absolute;
+	overflow: visible;
+	width: 527px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#-Physical_activity_through_inc {
+	left: 142px;
+	top: 534px;
+	position: absolute;
+	overflow: visible;
+	width: 453px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#ID2006695-200_1 {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1143px;
+	top: 109px;
+	overflow: visible;
+}
+#Image_1 {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 1188px;
+	top: 109px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___5.html;
+	cursor: pointer;
+}
+#Why_do_you_need_physical_activ {
+	left: 421px;
+	top: 818px;
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Women_who_do_exercise_regularl {
+	left: 147px;
+	top: 879px;
+	position: absolute;
+	overflow: visible;
+	width: 805px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Common_exercise_barriers_for_w {
+	left: 147px;
+	top: 1163px;
+	position: absolute;
+	overflow: visible;
+	width: 467px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Barriers_you_might_face_in_phy {
+	left: 364px;
+	top: 1102px;
+	position: absolute;
+	overflow: visible;
+	width: 553px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Regular_physical_activity_is_v {
+	left: 101px;
+	top: 607px;
+	position: absolute;
+	overflow: hidden;
+	width: 1080px;
+	height: 201px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(180,5,180,1);
+}
+#Tips_for_you_to_overcome_barri {
+	left: 308px;
+	top: 1460px;
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ID1Lack_of_time__many_women_ju {
+	left: 142px;
+	top: 1521px;
+	position: absolute;
+	overflow: visible;
+	width: 1079px;
+	height: 150px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#ID1Lack_of_time__many_women_ju_ {
+	left: 142px;
+	top: 1699px;
+	position: absolute;
+	overflow: visible;
+	width: 1079px;
+	height: 150px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#A_few_minor_changes_to_your_da {
+	left: 147px;
+	top: 1956px;
+	position: absolute;
+	overflow: visible;
+	width: 1023px;
+	height: 300px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(31,31,31,1);
+}
+#Physical_activity_through_inci {
+	left: 359px;
+	top: 1877px;
+	position: absolute;
+	overflow: visible;
+	width: 563px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Screen_Shot_2021-02-12_at_2505 {
+	position: absolute;
+	width: 291px;
+	height: 291px;
+	left: 868px;
+	top: 270px;
+	overflow: visible;
+}
+#imghappy {
+	position: absolute;
+	width: 340px;
+	height: 340px;
+	left: 840px;
+	top: 1135px;
+	overflow: visible;
+}

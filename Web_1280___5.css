@@ -1,0 +1,386 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 5;
+	--web-view-id: Web_1280__5;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280__5;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280__5 {
+	position: absolute;
+	width: 1280px;
+	height: 800px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 5;
+	--web-view-id: Web_1280__5;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_12 {
+	opacity: 0.278;
+	fill: rgba(255,103,103,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 204px;
+	left: 0px;
+	top: -16px;
+}
+#WOMEN_IN_FITNESS_360 {
+	left: 378px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 525px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Home_ {
+	left: 543px;
+	top: 94px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___1.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#Shop {
+	left: 612px;
+	top: 94px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___4.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#Activity {
+	left: 669px;
+	top: 94px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___8.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#Welcome {
+	left: 582px;
+	top: 141px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ID2006695-200_1 {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1143px;
+	top: 109px;
+	overflow: visible;
+}
+#Image_1 {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 1188px;
+	top: 109px;
+	overflow: visible;
+}
+#googlefitimg {
+	position: absolute;
+	width: 147px;
+	height: 141px;
+	left: 145px;
+	top: 289px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___8.html;
+	cursor: pointer;
+}
+#Group_7 {
+	position: absolute;
+	width: 399px;
+	height: 27px;
+	left: 85px;
+	top: 221px;
+	overflow: visible;
+}
+#Sync_your_GoogleFit_data {
+	left: 83px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,49,49,1);
+}
+#Step_1 {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,49,49,1);
+}
+#Step_2_Your_have_your_access_t {
+	left: 701px;
+	top: 220px;
+	position: absolute;
+	overflow: visible;
+	width: 344px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,0,0,1);
+}
+#img567 {
+	position: absolute;
+	width: 218px;
+	height: 218px;
+	left: 494px;
+	top: 260px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___8.html;
+	cursor: pointer;
+}
+#docimg {
+	position: absolute;
+	width: 174px;
+	height: 174px;
+	left: 943px;
+	top: 540px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___9.html;
+	cursor: pointer;
+}
+#woman-age-illustration-of-fema {
+	position: absolute;
+	width: 446px;
+	height: 198px;
+	left: 814px;
+	top: 269px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___7.html;
+	cursor: pointer;
+}
+#Your_Heath_Monitor_and_Energy_ {
+	left: 461px;
+	top: 487px;
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___8.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Your_Heath_Cycle_Guide {
+	left: 943px;
+	top: 487px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___7.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#yogaimg {
+	position: absolute;
+	width: 174px;
+	height: 174px;
+	left: 524px;
+	top: 540px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___6.html;
+	cursor: pointer;
+}
+#Your_Physical_Activity_Guide {
+	left: 500px;
+	top: 747px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___6.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Your_Medication_and_Tests_reco {
+	left: 857px;
+	top: 747px;
+	position: absolute;
+	overflow: visible;
+	width: 347px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___9.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Group_8 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 472px;
+	top: 289px;
+	overflow: visible;
+}
+#Ellipse_8 {
+	fill: rgba(255,232,232,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+#ID1 {
+	left: 14px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 14px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,49,49,1);
+}
+#Ellipse_8_bb {
+	fill: rgba(255,232,232,1);
+}
+.Ellipse_8_bb {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 794px;
+	top: 289px;
+}
+#ID2 {
+	left: 808px;
+	top: 296px;
+	position: absolute;
+	overflow: visible;
+	width: 14px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,49,49,1);
+}

@@ -1,0 +1,692 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280__1 {
+	position: absolute;
+	width: 1280px;
+	height: 5338px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1_o {
+	fill: url(#Rectangle_1_o);
+}
+.Rectangle_1_o {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 197px;
+	left: 0px;
+	top: 0px;
+}
+#WOMEN_IN_FITNESS_360 {
+	left: 378px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 525px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Home_ {
+	left: 474px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(95,95,95,1);
+}
+#Shop {
+	left: 543px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___4.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(95,95,95,1);
+}
+#About_ {
+	left: 600px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(95,95,95,1);
+}
+#Activity {
+	left: 670px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(95,95,95,1);
+}
+#Join_us {
+	left: 751px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___2.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(95,95,95,1);
+}
+#WOMEN_IN_FITNESS {
+	left: 281px;
+	top: 172px;
+	position: absolute;
+	overflow: visible;
+	width: 743px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(255,0,255,1);
+}
+#ID2006695-200_1 {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1143px;
+	top: 109px;
+	overflow: visible;
+}
+#Image_1 {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 1188px;
+	top: 109px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___2.html;
+	cursor: pointer;
+}
+#Lets_get_going {
+	left: 569px;
+	top: 269px;
+	position: absolute;
+	overflow: visible;
+	width: 167px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(65,65,65,1);
+}
+#baseimg {
+	position: absolute;
+	width: 1280px;
+	height: 672px;
+	left: 0px;
+	top: 352px;
+	overflow: visible;
+}
+#shoes {
+	position: absolute;
+	width: 266px;
+	height: 208px;
+	left: 39px;
+	top: 1064px;
+	overflow: visible;
+}
+#makeup {
+	position: absolute;
+	width: 267px;
+	height: 208px;
+	left: 346px;
+	top: 1064px;
+	overflow: visible;
+}
+#shirt {
+	position: absolute;
+	width: 267px;
+	height: 208px;
+	left: 654px;
+	top: 1064px;
+	overflow: visible;
+}
+#accessories {
+	position: absolute;
+	width: 267px;
+	height: 208px;
+	left: 962px;
+	top: 1064px;
+	overflow: visible;
+}
+#Im_a_product {
+	left: 39px;
+	top: 1288px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(65,65,65,1);
+}
+#Im_a_product_ {
+	left: 346px;
+	top: 1288px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(65,65,65,1);
+}
+#Im_a_product_ba {
+	left: 653px;
+	top: 1288px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(65,65,65,1);
+}
+#Im_a_product_bb {
+	left: 960px;
+	top: 1288px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(65,65,65,1);
+}
+#ID8500 {
+	left: 39px;
+	top: 1326px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(65,65,65,1);
+}
+#ID1200_ {
+	left: 350px;
+	top: 1326px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(65,65,65,1);
+}
+#ID2000 {
+	left: 661px;
+	top: 1326px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(65,65,65,1);
+}
+#ID1500_ {
+	left: 960px;
+	top: 1326px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(65,65,65,1);
+}
+#Rectangle_2 {
+	fill: rgba(245,242,242,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 911px;
+	left: 0px;
+	top: 1383px;
+}
+#image2 {
+	opacity: 0.979;
+	position: absolute;
+	width: 1280px;
+	height: 613px;
+	left: 0px;
+	top: 1681px;
+	overflow: visible;
+}
+#ABOUT_WOMEN_IN_FITNESS {
+	left: 396px;
+	top: 1435px;
+	position: absolute;
+	overflow: visible;
+	width: 489px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,0,255,1);
+}
+#A_Group_with_a_Common_Passion {
+	left: 505px;
+	top: 1489px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(82,82,82,1);
+}
+#Women_in_fitness_was_founded_i {
+	left: 261px;
+	top: 1540px;
+	position: absolute;
+	overflow: visible;
+	width: 785px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(123,123,123,1);
+}
+#Upcoming_Events {
+	left: 518px;
+	top: 3787px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#trophe {
+	position: absolute;
+	width: 348px;
+	height: 403px;
+	left: 20px;
+	top: 3850px;
+	overflow: visible;
+}
+#championship {
+	position: absolute;
+	width: 348px;
+	height: 403px;
+	left: 466px;
+	top: 3850px;
+	overflow: visible;
+}
+#Championship_bk {
+	left: 114px;
+	top: 4270px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Tournaments {
+	left: 568px;
+	top: 4270px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Yoga_Meet {
+	left: 1030px;
+	top: 4270px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Sat05_July_Mumbai {
+	left: 119px;
+	top: 4308px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Sat05_July_Mumbai_bo {
+	left: 565px;
+	top: 4308px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Sat05_July_Mumbai_bp {
+	left: 1011px;
+	top: 4308px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#figures {
+	position: absolute;
+	width: 48px;
+	height: 31px;
+	left: 170px;
+	top: 4340px;
+	overflow: visible;
+}
+#figures_br {
+	position: absolute;
+	width: 48px;
+	height: 31px;
+	left: 616px;
+	top: 4340px;
+	overflow: visible;
+}
+#figures_bs {
+	position: absolute;
+	width: 48px;
+	height: 31px;
+	left: 1062px;
+	top: 4340px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 110px;
+	height: 41px;
+	left: 139px;
+	top: 4375px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(255,0,255,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#RSVP {
+	left: 32px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 110px;
+	height: 41px;
+	left: 585px;
+	top: 4375px;
+	overflow: visible;
+}
+#Rectangle_5_bx {
+	fill: rgba(255,0,255,1);
+}
+.Rectangle_5_bx {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#RSVP_by {
+	left: 32px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 110px;
+	height: 41px;
+	left: 1031px;
+	top: 4375px;
+	overflow: visible;
+}
+#Rectangle_5_b {
+	fill: rgba(255,0,255,1);
+}
+.Rectangle_5_b {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#RSVP_b {
+	left: 32px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#ID56 {
+	position: absolute;
+	width: 348px;
+	height: 403px;
+	left: 912px;
+	top: 3850px;
+	overflow: visible;
+}
+#img456 {
+	position: absolute;
+	width: 1270px;
+	height: 701px;
+	left: 5px;
+	top: 3020px;
+	overflow: visible;
+}
+#ID2021_by_Women_in_fitness_ {
+	left: 557px;
+	top: 5286px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#ID3img {
+	position: absolute;
+	width: 401px;
+	height: 65px;
+	left: 464px;
+	top: 5221px;
+	overflow: visible;
+}
+#dummyimg {
+	position: absolute;
+	width: 1280px;
+	height: 698px;
+	left: 0px;
+	top: 4482px;
+	overflow: visible;
+}
+#imgdummy {
+	position: absolute;
+	width: 1270px;
+	height: 701px;
+	left: 0px;
+	top: 2319px;
+	overflow: visible;
+}
